@@ -38,3 +38,15 @@ docker-compose exec app php artisan migrate
 
 --Запустите тесты с использованием PHPUnit:
 docker-compose exec app ./vendor/bin/phpunit
+
+
+```
+![image](https://github.com/balguzh1nov/testovoe_laravel/assets/118799235/757dfb37-751b-475f-93ab-f02cadca6609)
+
+![image](https://github.com/balguzh1nov/testovoe_laravel/assets/118799235/8e32b661-a381-463d-a334-80accefb3e05)
+
+![image](https://github.com/balguzh1nov/testovoe_laravel/assets/118799235/317351fd-3e9d-4356-8a24-735c7f434413)
+
+![image](https://github.com/balguzh1nov/testovoe_laravel/assets/118799235/ee68d680-e483-4af7-927a-45eb28a5b0b2)
+
+![image](https://github.com/balguzh1nov/testovoe_laravel/assets/118799235/b8bfdd16-5b7e-473c-abdf-8d253472b882)
