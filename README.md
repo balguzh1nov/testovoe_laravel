@@ -31,5 +31,5 @@
 ### Шаг 1: Клонирование репозитория
 
 ```sh
-git clone <[URL вашего репозитория](https://github.com/balguzh1nov/testovoe_laravel)>
-cd <https://github.com/balguzh1nov/testovoe_laravel>
+git clone https://github.com/balguzh1nov/testovoe_laravel
+cd https://github.com/balguzh1nov/testovoe_laravel
