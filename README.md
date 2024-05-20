@@ -29,3 +29,12 @@
 ```sh
 git clone https://github.com/balguzh1nov/testovoe_laravel
 cd https://github.com/balguzh1nov/testovoe_laravel
+
+### Шаг 2: Запуск Docker контейнеров
+docker-compose up --build
+
+--Выполнение миграций базы данных
+docker-compose exec app php artisan migrate
+
+--Запустите тесты с использованием PHPUnit:
+docker-compose exec app ./vendor/bin/phpunit
